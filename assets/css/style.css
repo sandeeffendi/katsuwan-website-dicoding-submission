@@ -696,7 +696,7 @@ aside {
 
 .ctwa-img {
   background-color: transparent;
-  overflow: visible;
+  /* overflow: visible; */
 }
 
 .sidebar-ctwa-container img {
@@ -744,7 +744,7 @@ aside {
 
 footer {
   height: 20cvh;
-  margin: 0.1re;
+  margin: 0.1rem;
 }
 
 footer p {
